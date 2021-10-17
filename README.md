@@ -18,7 +18,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireXC4&showicons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireXC4&showicons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireXC4)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<br />
