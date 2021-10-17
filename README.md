@@ -1,4 +1,4 @@
-### Hi there, I'm Roman - aka [codeSTACKr] 👋
+### Hi there, I'm Roman - aka FireXC👋
 
 ## I'm a Student and do Tech for fun!!
 
