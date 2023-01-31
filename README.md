@@ -6,6 +6,8 @@
 - 👯 I’m looking to collaborate on any OpenSource projects
 - 🥅 2021-2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love streaming and audio editing, learning bouth 🤣
+- 🦾 Working as IT administartor, but im looking for Python or Java software dev position
+- 👨‍🎓 SŠ in Information technology, went to university but did not finish
 
 
 ### Languages and Tools:
