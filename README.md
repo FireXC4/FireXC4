@@ -7,7 +7,7 @@
 - 🥅 2021-2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love streaming and audio editing, learning bouth 🤣
 - 🦾 Working as IT administartor, but im looking for Python or Java software dev position
-    * Im open for Request or recruitment testing on **romansilhan20@gmail.com
+    * Im open for Request or recruitment testing on *romansilhan20@gmail.com*
 - 👨‍🎓 SŠ in Information technology, went to university but did not finish
 
 
